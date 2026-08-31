@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght,MONO@0,300..800,1;1,300..800,1&family=Outfit:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.attribution {
+    font-size: 0.6875rem;
+    text-align: center;
+}
+
+.attribution a {
+    color: #3e52a3;
+}
+
+body {
+    height: 100vh;
+    background-color: #D5E1EF;
+    display: grid;
+    place-items: center;
+}
+
+.card {
+    max-width: 300px;
+    height: 480px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card img {
+    border-radius: 10px;
+    width: stretch;
+    height: auto;
+}
