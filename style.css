@@ -36,3 +36,24 @@ body {
     width: stretch;
     height: auto;
 }
+
+.top-text {
+    font-family: 'Outfit', sans-serif;
+    color: #1F314F;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 120%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.bottom-text {
+    font-family: 'Outfit', sans-serif;
+    color: #68778D;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    text-align: center;
+    margin-top: 20px;
+}
